@@ -1,0 +1,5 @@
+/pgslap
+/pgslap.exe
+*.gz
+*.zip
+*.sha1sum
