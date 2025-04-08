@@ -142,3 +142,5 @@ pgslap -u 'postgres://scott@localhost:5432' \
 
 * MySQL load testing tool like mysqlslap
     * https://github.com/winebarrel/qlap
+* DB load testing tool
+    * https://github.com/winebarrel/qube
